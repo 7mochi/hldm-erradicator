@@ -88,15 +88,15 @@ new const gDestroyCfgFiles[][] = {
 	"motdfile autoexec.cfg;motd_write x",
 	"motdfile !MD5/../../valve/autoexec.cfg;motd_write x",
 	"motdfile default.cfg;motd_write x",
-    "motdfile !MD5/../../valve/default.cfg;motd_write x",
-    "motdfile joystick.cfg;motd_write x",
-    "motdfile !MD5/../../valve/joystick.cfg;motd_write x",
-    "motdfile language.cfg;motd_write x",
-    "motdfile !MD5/../../valve/language.cfg;motd_write x",
-    "motdfile userconfig.cfg;motd_write x",
-    "motdfile !MD5/../../valve/userconfig.cfg;motd_write x",
-    "motdfile violence.cfg;motd_write x",
-    "motdfile !MD5/../../valve/violence.cfg;motd_write x"
+	"motdfile !MD5/../../valve/default.cfg;motd_write x",
+	"motdfile joystick.cfg;motd_write x",
+	"motdfile !MD5/../../valve/joystick.cfg;motd_write x",
+	"motdfile language.cfg;motd_write x",
+	"motdfile !MD5/../../valve/language.cfg;motd_write x",
+	"motdfile userconfig.cfg;motd_write x",
+	"motdfile !MD5/../../valve/userconfig.cfg;motd_write x",
+	"motdfile violence.cfg;motd_write x",
+	"motdfile !MD5/../../valve/violence.cfg;motd_write x"
 };
 
 new const gCommands[][] = {
