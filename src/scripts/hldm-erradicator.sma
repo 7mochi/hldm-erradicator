@@ -27,7 +27,7 @@
 #include <amxmisc>
 
 #define PLUGIN			"HLDM Erradicator"
-#define VERSION			"1.0-stable"
+#define VERSION			"1.0.0"
 #define AUTHOR			"FlyingCat"
 
 #pragma semicolon 1
