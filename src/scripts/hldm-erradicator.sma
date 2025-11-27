@@ -1,7 +1,7 @@
 /*	
 	HLDM Erradicator (Thanks to Dcarlox for the name)
-	Version: 1.0
-	Author: FlyingCat
+	Version: 1.0.0
+	Author: 7mochi
 	
 	# Information:
 	Plugin that serves as an alternative to amx_ban/amx_banip for non-Steam players using Half-Life
@@ -18,9 +18,9 @@
 	- K3NS4N: Ideas for the new commands
 
 	# Contact: 
-	- E-mail: alonso.caychop@tutamail.com | flyingcatdm@gmail.com
-	- Discord: 天矢七海#1926 | Suisei#4947 (You probably won't find me on the other discord as I rarely use it)
-	- Steam: https://steamcommunity.com/id/nanamochi/ | https://steamcommunity.com/id/flyingcatx/ (Same as my discord, I always use the first one)
+	- E-mail: alonso.caychop@protonmail.com | flyingcatdm@gmail.com
+	- Discord: _7mochi_
+	- Steam: https://steamcommunity.com/id/_7mochi/ | https://steamcommunity.com/id/nanamochi/ | https://steamcommunity.com/id/flyingcatx/
 */
 
 #include <amxmodx>
@@ -28,7 +28,7 @@
 
 #define PLUGIN			"HLDM Erradicator"
 #define VERSION			"1.0.0"
-#define AUTHOR			"FlyingCat"
+#define AUTHOR			"7mochi"
 
 #pragma semicolon 1
 
